@@ -15,7 +15,7 @@
             professional testing — and I apply it to everything I write.
           </p>
           <p class="about-desc reveal reveal-delay-2">
-            My work spans automation scripts, REST APIs, and frontend interfaces. I enjoy finding
+            My work spans automation scripts, REST APIs, and full-featured responsive applications. I enjoy finding
             the simplest path through a complex problem, and I'm always looking for things to
             learn along the way.
           </p>
@@ -50,7 +50,7 @@
 ><span class="kw">class</span> <span class="cls">Developer</span>:
 
     <span class="kw">def</span> <span class="fn">__init__</span>(self):
-        self.name     <span class="op">=</span> <span class="str">"Piotr Latyński"</span>
+        self.name     <span class="op">=</span> <span class="str">"Piotr Łatyński"</span>
         self.location <span class="op">=</span> <span class="str">"Piaseczno, PL"</span>
         self.stack    <span class="op">=</span> [
             <span class="str">"Python"</span>, <span class="str">"Vue.js"</span>,

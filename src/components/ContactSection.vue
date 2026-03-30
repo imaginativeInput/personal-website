@@ -57,7 +57,7 @@
     <footer class="footer">
       <div class="container footer-inner">
         <p class="footer-copy">
-          Built with <span class="gradient-text">Vue.js</span> &nbsp;·&nbsp; Piotr Latyński © {{ year }}
+          Built with <span class="gradient-text">Vue.js</span> &nbsp;·&nbsp; Piotr Łatyński © {{ year }}
         </p>
         <p class="footer-tip">
           <span class="mono-hint">$</span>&nbsp;Try the terminal in the corner ↘

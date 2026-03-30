@@ -59,7 +59,7 @@
           <div class="pic-inner">
             <img
               src="/profile-pic.png"
-              alt="Piotr Latyński"
+              alt="Piotr Łatyński"
               class="pic-img"
               loading="eager"
             />
@@ -69,7 +69,7 @@
           <!-- HUD label beneath image -->
           <div class="pic-hud" aria-hidden="true">
             <span class="hud-dot"></span>
-            <span class="hud-text">PIOTR&nbsp;LATYŃSKI</span>
+            <span class="hud-text">PIOTR&nbsp;ŁATYŃSKI</span>
             <span class="hud-sep">//</span>
             <span class="hud-text">DEV</span>
           </div>

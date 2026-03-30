@@ -208,9 +208,9 @@ function cmdLs() {
 
 function cmdWhoami() {
   push('out', `<div class="tc-block">
-  <div><span class="tc-green">Piotr Latyński</span> — Software Developer</div>
+  <div><span class="tc-green">Piotr Łatyński</span> — Software Developer</div>
   <div class="tc-dim">📍 Piaseczno, Masovian, Poland</div>
-  <div class="tc-dim">🐍 Python · JavaScript · Vue.js · FastAPI · Playwright</div>
+  <div class="tc-dim">🐍 Python · JavaScript · Vue.js · FastAPI · Playwright · PostgreSQL</div>
   <div class="tc-dim">✉  imaginative.input@gmail.com</div>
   <div class="tc-dim">🐙 github.com/imaginativeInput</div>
 </div>`)

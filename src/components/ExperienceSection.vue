@@ -49,10 +49,10 @@ const experience = [
     period: '2023 — present',
     points: [
       'Python & JavaScript automation, workflow tooling, and OCR pipeline development.',
-      'Frontend development and testing — Vue.js, HTML, CSS.',
+      'Full-stack development and testing — Vue.js, FastAPI, PostgreSQL, HTML, CSS.',
       'Built a 2D Python game with procedural generation and physics simulation; used Taichi Lang for parallelization.',
     ],
-    tags: ['Python', 'JavaScript', 'Vue.js', 'FastAPI', 'Automation', 'Taichi Lang'],
+    tags: ['Python', 'JavaScript', 'Vue.js', 'FastAPI', 'Automation', 'Taichi Lang', 'PostgreSQL', 'Selenium', 'Playwright', 'PyTest'],
   },
   {
     role: 'Software QA Tester',
